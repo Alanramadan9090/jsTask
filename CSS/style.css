@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(255, 254, 230, 0.892);
+}
+#item{
+   text-align: center;
+    border: 1px solid palegoldenrod;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 1px rgba(245, 245, 220, 0.906) ,
+    0 0 2px 1px rgba(245, 245, 220, 0.906),  0 0 2px 1px rgba(245, 245, 220, 0.906);
+}
+#item img{
+    width: 100%;
+    height: 90%;
+}
+.price-section{
+    width: 16%;
+    background-color: rgba(192, 195, 148, 0.557);
+    padding: 5px;
+    border-radius: 10px;
+}
+#chosedItems span{
+    font-weight: bold;
+}
+#btn{
+    background-color: #19A8DD;
+}
+#shtotal{
+    font-weight: bold;
+}
